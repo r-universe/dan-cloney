@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "conquestr"]
+	path = conquestr
+	url = https://github.com/cran/conquestr
+	shallow = true
+	registered = true
